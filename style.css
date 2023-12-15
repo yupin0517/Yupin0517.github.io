@@ -1,12 +1,12 @@
 p {
-    color: 107, 65, 39;
+    color: rgb(107, 65, 39);
   }
   h1 {
-    color: 59, 41, 30;
+    color: rgb(59, 41, 30);
   }
   h2 {
-    color:87, 62, 47;
+    color:rgb(87, 62, 47);
   }
 body {
-    background: 209, 165, 136;
+    background: rgb(209, 165, 136);
 }
